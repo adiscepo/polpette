@@ -9,4 +9,4 @@ $ python3 polpette.py participant_1 participant_2 ... participant_n
 ```
 Cliquer sur le bouton d'un intervenant lance le timer correspondant et stoppe ceux des autres.
 
-Voilààà, bisoux Vincent
+Voilààà, bisoux Vincent quand j'aurai le temps je ferais ça en application mobile ;)
